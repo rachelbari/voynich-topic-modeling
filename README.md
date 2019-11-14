@@ -22,4 +22,5 @@
 
 **Cosine Similarity** 
 * ```cosine_similarities = cosine_similarity(vms_tfidf, vms_tfidf)``` creates a 225x225 matrix, where the value at index i, j is the similarity of document i and j
+* To print the similarities, run ```python3 cosine_similarities.py```
 
