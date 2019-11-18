@@ -1,11 +1,8 @@
+import os
 import pickle
 from sklearn.metrics.pairwise import cosine_similarity
 
-def print_similarities():
-    with open("vms_tfidf.pk", "rb") as f:
-        vms_tfidf = pickle.load(f)
-    with open("vms_mapping.pk", "rb") as f:
-        vms_mapping = pickle.load(f)
+def print_similarities(vms_tfidf, vms_mapping):
     cosine_similarities = cosine_similarity(vms_tfidf, vms_tfidf)
     sim_scores = []
 
@@ -21,4 +18,11 @@ def print_similarities():
         print("\n\n")
 
 if __name__ == "__main__":
-    print_similarities()
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    models_path = "{}/{}".format(dir_path, "models")
+    with open("{}/vms_tfidf.pk".format(models_path), "rb") as f:
+        vms_tfidf = pickle.load(f)
+    with open("{}/vms_mapping.pk".format(models_path), "rb") as f:
+        vms_mapping = pickle.load(f)
+
+    print_similarities(vms_tfidf, vms_mapping)
