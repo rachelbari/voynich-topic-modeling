@@ -6,6 +6,13 @@ import pickle
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.decomposition import PCA
+from sklearn.pipeline import Pipeline
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+from wordcloud import WordCloud
+
 
 def tokenize(data):
 	index = defaultdict(str)
@@ -57,6 +64,23 @@ def tokenize(data):
 
 	return index
 
+def vis_vectorizer(documents):
+    # do tfidf ~magic~
+    tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2)
+    vms_tfidf = tfidf_vectorizer.fit_transform(documents).todense()
+    
+    # grab the first document vector
+    #first_vec = vms_tfidf[0]
+    #df = pd.DataFrame(first_vec, index=tfidf_vectorizer.get_feature_names(), columns=["tfidf"])
+    #df.sort_values(by=["tfidf"], ascending=False)
+    #df.to_csv("./out/first_vec.csv")
+   
+    pca = PCA(n_components=2).fit(vms_tfidf)
+    data2D = pca.transform(vms_tfidf)
+    plt.scatter(data2D[:,0], data2D[:,1])#, c=documents.target)
+    plt.show()
+
+
 def build_vectorizer(documents, mapping):
 	tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2)
 	tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2)
@@ -78,8 +102,25 @@ def build_vectorizer(documents, mapping):
 	with open("{}/vms_mapping.pk".format(models_path), "wb") as f: # mapping
 		pickle.dump(mapping, f)
 
+def make_cloud(documents):
+    # take all the documents and concatenate them into one long comma-separated string
+    print(documents)
+    long_string = ','.join(list(documents))
+    print(long_string)
+    # Create a WordCloud object
+    wordcloud = WordCloud(background_color="white", max_words=5000, contour_width=3, contour_color='steelblue', colormap='winter')# Generate a word cloud
+    wordcloud.generate(long_string)# Visualize the word cloud
+    wordcloud.to_file('./out/cloud.png')
+
+
+    fig = plt.figure(figsize=(10,8))
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.show()
+
 if __name__ == "__main__":
     index = tokenize("https://raw.githubusercontent.com/rachelbari/voynich-topic-modeling/master/data/text16e6.evt")
     documents = [index[key] for key in index.keys()]
     vms_mapping = [k for k in index.keys()]
-    build_vectorizer(documents, vms_mapping) 
+    #vis_vectorizer(documents, vms_mapping) 
+    make_cloud(documents)
