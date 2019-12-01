@@ -68,7 +68,7 @@ def build_vectorizer(documents, mapping):
 	with open("{}/tfidf_vectorizer.pk".format(models_path),"wb") as f: # vectorizers 
 		pickle.dump(tfidf_vectorizer, f)
 	with open("{}/tf_vectorizer.pk".format(models_path),"wb") as f:
-		pickle.dump(tfidf_vectorizer, f)
+		pickle.dump(tf_vectorizer, f)
 	
 	with open("{}/vms_tfidf.pk".format(models_path),"wb") as f: # models
 		pickle.dump(vms_tfidf, f)
