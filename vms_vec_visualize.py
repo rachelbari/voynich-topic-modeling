@@ -104,16 +104,14 @@ def build_vectorizer(documents, mapping):
 
 def make_cloud(documents):
     # take all the documents and concatenate them into one long comma-separated string
-    print(documents)
     long_string = ','.join(list(documents))
-    print(long_string)
     # Create a WordCloud object
-    wordcloud = WordCloud(background_color="white", max_words=5000, contour_width=3, contour_color='steelblue', colormap='winter')# Generate a word cloud
+    wordcloud = WordCloud(width=600, height=800, background_color="white", max_words=5000, contour_width=3, contour_color='steelblue', colormap='winter')# Generate a word cloud
     wordcloud.generate(long_string)# Visualize the word cloud
     wordcloud.to_file('./out/cloud.png')
 
 
-    fig = plt.figure(figsize=(10,8))
+    fig = plt.figure(figsize=(6,8))
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")
     plt.show()
