@@ -12,9 +12,9 @@ def display_topics(model, feature_names, no_top_words):
 
 def print_results(model, feature_names, no_top_words, topics, mapping):
     display_topics(model, feature_names, no_top_words)
-    print("\n")
-    for t in range(len(topics)):
-        print("{}: {}".format(mapping[t], topics[t].argmax()))
+    #print("\n")
+    #for t in range(len(topics)):
+    #    print("{}: {}".format(mapping[t], topics[t].argmax()))
 
 def nmf(tfidf_vectorizer, vms_tfidf, mapping, num_topics):
     nmf = NMF(n_components=num_topics, random_state=1, alpha=.1, l1_ratio=.5, init='nndsvd').fit(vms_tfidf)
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     with open("{}/vms_tfidf.pk".format(models_path), "rb") as f:
         vms_tfidf = pickle.load(f)
 
-    num_topics = 6
+    num_topics = 4
 
     lda(tf_vectorizer, vms_tf, vms_mapping, num_topics)
     nmf(tfidf_vectorizer, vms_tf, vms_mapping, num_topics)
