@@ -23,12 +23,18 @@ f11r,botanical,1,a,2
 f11v,botanical,1,a,2
 f13r,botanical,1,a,2
 f13v,botanical,1,a,2
+<<<<<<< HEAD
 f14r,missing,0,missing,2
 f14v,missing,0,missing,2
+=======
+f14r,botanical,1,a,2
+f14v,botanical,1,a,2
+>>>>>>> origin/annie
 f15r,botanical,1,a,2
 f15v,botanical,1,a,2
 f16r,botanical,1,a,2
 f16v,botanical,1,a,2
+<<<<<<< HEAD
 f17r,missing,0,missing,3
 f17v,missing,0,missing,3
 f18r,missing,0,missing,3
@@ -45,6 +51,24 @@ f23r,missing,0,missing,3
 f23v,missing,0,missing,3
 f24r,missing,0,missing,3
 f24v,missing,0,missing,3
+=======
+f17r,botanical,1,a,3
+f17v,botanical,1,a,3
+f18r,botanical,1,a,3
+f18v,botanical,1,a,3
+f19r,botanical,1,a,3
+f19v,botanical,1,a,3
+f20r,botanical,1,a,3
+f20v,botanical,1,a,3
+f21r,botanical,1,a,3
+f21v,botanical,1,a,3
+f22r,botanical,1,a,3
+f22v,botanical,1,a,3
+f23r,botanical,1,a,3
+f23v,botanical,1,a,3
+f24r,botanical,1,a,3
+f24v,botanical,1,a,3
+>>>>>>> origin/annie
 f25r,botanical,1,a,4
 f25v,botanical,1,a,4
 f26r,botanical,2,b,4
@@ -201,6 +225,7 @@ f102r1,recipies,1,a,17
 f102r2,recipies,1,a,17
 f102v2,recipies,1,a,17
 f102v1,recipies,1,a,17
+<<<<<<< HEAD
 f103r,starred paragraphs,0,b,18
 f103v,starred paragraphs,0,b,18
 f104r,starred paragraphs,0,b,18
@@ -224,3 +249,28 @@ f114v,starred paragraphs,0,b,18
 f115r,starred paragraphs,0,b,18
 f115v,starred paragraphs,0,b,18
 f116r,starred paragraphs,0,b,18
+=======
+f103r,starred paragraphs,3,b,18
+f103v,starred paragraphs,3,b,18
+f104r,starred paragraphs,3,b,18
+f104v,starred paragraphs,3,b,18
+f105r,starred paragraphs,3,b,18
+f105v,starred paragraphs,3,b,18
+f106r,starred paragraphs,3,b,18
+f106v,starred paragraphs,3,b,18
+f107r,starred paragraphs,3,b,18
+f107v,starred paragraphs,3,b,18
+f108r,starred paragraphs,3,b,18
+f108v,starred paragraphs,3,b,18
+f111r,starred paragraphs,3,b,18
+f111v,starred paragraphs,3,b,18
+f112r,starred paragraphs,3,b,18
+f112v,starred paragraphs,3,b,18
+f113r,starred paragraphs,3,b,18
+f113v,starred paragraphs,3,b,18
+f114r,starred paragraphs,3,b,18
+f114v,starred paragraphs,3,b,18
+f115r,starred paragraphs,3,b,18
+f115v,starred paragraphs,3,b,18
+f116r,starred paragraphs,3,b,18
+>>>>>>> origin/annie

@@ -24,10 +24,4 @@
 * ```cosine_similarities = cosine_similarity(vms_tfidf, vms_tfidf)``` creates a 225x225 matrix, where the value at index i, j is the similarity of document i and j
 * To print the similarities, run ```python3 cosine_similarities.py```
 
-## Comparisons with current topic, script, and language categorizations
-
-This requires that a file named lfd_map.csv be placed in the main directory. 
-It should contain the following columns: folio, topic, hand, language, quire.
-
-This is unpublished at the time of writing, so it is not provided in this public repository.
-
+This is the end of the readme.
