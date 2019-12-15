@@ -1,0 +1,48 @@
+
+Topic 0:
+(0) f76r: hand 2, language b, balneological
+(0) f103v: hand 3, language b, starred paragraphs
+(0) f75r: hand 2, language b, balneological
+(0) f79v: hand 2, language b, balneological
+(0) f79r: hand 2, language b, balneological
+(0) f84r: hand 2, language b, balneological
+(0) f103r: hand 3, language b, starred paragraphs
+(2) f107v: hand 3, language b, starred paragraphs
+(0) f76v: hand 2, language b, balneological
+(0) f78v: hand 2, language b, balneological
+
+Topic 1:
+(1) f15v: hand 1, language a, botanical
+(1) f47r: hand 1, language a, botanical
+(1) f42r: hand 1, language a, botanical
+(1) f49v: hand 1, language a, botanical
+(1) f10r: hand 1, language a, botanical
+(1) f32v: hand 1, language a, botanical
+(1) f20v: hand 1, language a, botanical
+(1) f9v: hand 1, language a, botanical
+(1) f19r: hand 1, language a, botanical
+(1) f4r: hand 1, language a, botanical
+
+Topic 2:
+(2) f105v: hand 3, language b, starred paragraphs
+(2) f72r1: hand 4, language b, astrology
+(2) f113v: hand 3, language b, starred paragraphs
+(2) f86v5: hand 2, language b, rose
+(2) f71r: hand 4, language b, astrology
+(2) f71v: hand 4, language b, astrology
+(2) f72r3: hand 4, language b, astrology
+(2) f70v2: hand 4, language b, astrology
+(2) f39v: hand 2, language b, botanical
+(2) f55v: hand 2, language b, botanical
+
+Topic 3:
+(3) f102v1: hand 1, language a, recipies
+(3) f102v2: hand 1, language a, recipies
+(3) f102r2: hand 1, language a, recipies
+(3) f89r2: hand 1, language a, recipies
+(3) f101r1: hand 1, language a, recipies
+(3) f100v: hand 1, language a, recipies
+(3) f101v2: hand 1, language a, recipies
+(3) f99r: hand 1, language a, recipies
+(3) f99v: hand 1, language a, recipies
+(3) f100r: hand 1, language a, recipies
