@@ -1,0 +1,24 @@
+
+Topic 0:
+(0) f76r: hand 2, language b, balneological
+(0) f103v: hand 3, language b, starred paragraphs
+(0) f75r: hand 2, language b, balneological
+(0) f79v: hand 2, language b, balneological
+(0) f79r: hand 2, language b, balneological
+(0) f84r: hand 2, language b, balneological
+(0) f103r: hand 3, language b, starred paragraphs
+(0) f107v: hand 3, language b, starred paragraphs
+(0) f76v: hand 2, language b, balneological
+(0) f78v: hand 2, language b, balneological
+
+Topic 1:
+(1) f15v: hand 1, language a, botanical
+(1) f47r: hand 1, language a, botanical
+(1) f42r: hand 1, language a, botanical
+(1) f49v: hand 1, language a, botanical
+(1) f10r: hand 1, language a, botanical
+(1) f32v: hand 1, language a, botanical
+(1) f20v: hand 1, language a, botanical
+(1) f9v: hand 1, language a, botanical
+(1) f19r: hand 1, language a, botanical
+(1) f4r: hand 1, language a, botanical
