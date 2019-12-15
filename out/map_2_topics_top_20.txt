@@ -1,0 +1,44 @@
+
+Topic 0:
+(0) f76r: hand 2, language b, balneological
+(0) f75r: hand 2, language b, balneological
+(0) f77v: hand 2, language b, balneological
+(0) f79v: hand 2, language b, balneological
+(0) f84r: hand 2, language b, balneological
+(0) f76v: hand 2, language b, balneological
+(0) f103r: hand 3, language b, starred paragraphs
+(0) f78v: hand 2, language b, balneological
+(0) f103v: hand 3, language b, starred paragraphs
+(0) f82v: hand 2, language b, balneological
+(0) f83v: hand 2, language b, balneological
+(0) f77r: hand 2, language b, balneological
+(0) f108r: hand 3, language b, starred paragraphs
+(0) f78r: hand 2, language b, balneological
+(0) f116r: hand 3, language b, starred paragraphs
+(0) f81r: hand 2, language b, balneological
+(0) f84v: hand 2, language b, balneological
+(0) f108v: hand 3, language b, starred paragraphs
+(0) f75v: hand 2, language b, balneological
+(0) f80v: hand 2, language b, balneological
+
+Topic 1:
+(1) f47r: hand 1, language a, botanical
+(1) f15v: hand 1, language a, botanical
+(1) f49v: hand 1, language a, botanical
+(1) f42r: hand 1, language a, botanical
+(1) f10r: hand 1, language a, botanical
+(1) f32v: hand 1, language a, botanical
+(1) f20v: hand 1, language a, botanical
+(1) f1r: hand 1, language a, botanical
+(1) f9v: hand 1, language a, botanical
+(1) f4r: hand 1, language a, botanical
+(1) f8v: hand 1, language a, botanical
+(1) f19r: hand 1, language a, botanical
+(1) f19v: hand 1, language a, botanical
+(1) f15r: hand 1, language a, botanical
+(1) f22r: hand 1, language a, botanical
+(1) f28v: hand 1, language a, botanical
+(1) f27r: hand 1, language a, botanical
+(1) f32r: hand 1, language a, botanical
+(1) f10v: hand 1, language a, botanical
+(1) f5v: hand 1, language a, botanical
