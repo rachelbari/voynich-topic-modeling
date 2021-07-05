@@ -1,0 +1,226 @@
+,folio,topic,hand,quire,language,topic_nmf
+0,f1r,botanical,1,1,a,1
+1,f1v,botanical,1,1,a,1
+2,f2r,botanical,1,1,a,1
+3,f2v,botanical,1,1,a,1
+4,f3r,botanical,1,1,a,1
+5,f3v,botanical,1,1,a,1
+6,f4r,botanical,1,1,a,1
+7,f4v,botanical,1,1,a,1
+8,f5r,botanical,1,1,a,1
+9,f5v,botanical,1,1,a,1
+10,f6r,botanical,1,1,a,1
+11,f6v,botanical,1,1,a,1
+12,f7r,botanical,1,1,a,1
+13,f7v,botanical,1,1,a,1
+14,f8r,botanical,1,1,a,1
+15,f8v,botanical,1,1,a,1
+16,f9r,botanical,1,2,a,1
+17,f9v,botanical,1,2,a,1
+18,f10r,botanical,1,2,a,1
+19,f10v,botanical,1,2,a,1
+20,f11r,botanical,1,2,a,1
+21,f11v,botanical,1,2,a,1
+22,f13r,botanical,1,2,a,1
+23,f13v,botanical,1,2,a,1
+24,f14r,botanical,1,2,a,1
+25,f14v,botanical,1,2,a,1
+26,f15r,botanical,1,2,a,1
+27,f15v,botanical,1,2,a,1
+28,f16r,botanical,1,2,a,1
+29,f16v,botanical,1,2,a,1
+30,f17r,botanical,1,3,a,1
+31,f17v,botanical,1,3,a,3
+32,f18r,botanical,1,3,a,1
+33,f18v,botanical,1,3,a,1
+34,f19r,botanical,1,3,a,1
+35,f19v,botanical,1,3,a,1
+36,f20r,botanical,1,3,a,1
+37,f20v,botanical,1,3,a,1
+38,f21r,botanical,1,3,a,1
+39,f21v,botanical,1,3,a,1
+40,f22r,botanical,1,3,a,1
+41,f22v,botanical,1,3,a,1
+42,f23r,botanical,1,3,a,1
+43,f23v,botanical,1,3,a,1
+44,f24r,botanical,1,3,a,3
+45,f24v,botanical,1,3,a,1
+46,f25r,botanical,1,4,a,1
+47,f25v,botanical,1,4,a,1
+48,f26r,botanical,2,4,b,4
+49,f26v,botanical,2,4,b,4
+50,f27r,botanical,1,4,a,1
+51,f27v,botanical,1,4,a,1
+52,f28r,botanical,1,4,a,1
+53,f28v,botanical,1,4,a,1
+54,f29r,botanical,1,4,a,1
+55,f29v,botanical,1,4,a,1
+56,f30r,botanical,1,4,a,3
+57,f30v,botanical,1,4,a,1
+58,f31r,botanical,2,4,b,4
+59,f31v,botanical,2,4,b,2
+60,f32r,botanical,1,4,a,1
+61,f32v,botanical,1,4,a,1
+62,f33r,botanical,2,5,b,2
+63,f33v,botanical,2,5,b,2
+64,f34r,botanical,2,5,b,2
+65,f34v,botanical,2,5,b,4
+66,f35r,botanical,1,5,a,1
+67,f35v,botanical,1,5,a,1
+68,f36r,botanical,1,5,a,1
+69,f36v,botanical,1,5,a,1
+70,f37r,botanical,1,5,a,1
+71,f37v,botanical,1,5,a,1
+72,f38r,botanical,1,5,a,1
+73,f38v,botanical,1,5,a,1
+74,f39r,botanical,2,5,b,4
+75,f39v,botanical,2,5,b,2
+76,f40r,botanical,2,5,b,2
+77,f40v,botanical,2,5,b,2
+78,f41r,botanical,5,6,b,4
+79,f41v,botanical,5,6,b,3
+80,f42r,botanical,1,6,a,1
+81,f42v,botanical,1,6,a,1
+82,f43r,botanical,2,6,b,4
+83,f43v,botanical,2,6,b,4
+84,f44r,botanical,1,6,a,1
+85,f44v,botanical,1,6,a,1
+86,f45r,botanical,1,6,a,1
+87,f45v,botanical,1,6,a,1
+88,f46r,botanical,2,6,b,2
+89,f46v,botanical,2,6,b,4
+90,f47r,botanical,1,6,a,1
+91,f47v,botanical,1,6,a,1
+92,f48r,botanical,5,6,b,4
+93,f48v,botanical,5,6,b,4
+94,f49r,botanical,1,7,a,1
+95,f49v,botanical,1,7,a,1
+96,f50r,botanical,2,7,b,2
+97,f50v,botanical,2,7,b,4
+98,f51r,botanical,1,7,a,3
+99,f51v,botanical,1,7,a,3
+100,f52r,botanical,1,7,a,1
+101,f52v,botanical,1,7,a,1
+102,f53r,botanical,1,7,a,1
+103,f53v,botanical,1,7,a,1
+104,f54r,botanical,1,7,a,3
+105,f54v,botanical,1,7,a,3
+106,f55r,botanical,2,7,b,2
+107,f55v,botanical,2,7,b,2
+108,f56r,botanical,1,7,a,1
+109,f56v,botanical,1,7,a,1
+110,f57r,botanical,5,8,b,3
+111,f57v,unknown,1,8,unknown,2
+112,f58r,unknown,3,8,b,2
+113,f58v,unknown,3,8,b,2
+114,f65r,botanical,3,8,b,4
+115,f65v,botanical,3,8,b,4
+116,f66r,unknown,5,8,b,4
+117,f66v,botanical,5,8,b,2
+118,f67r1,astrology,4,9,b,2
+119,f67r2,astrology,4,9,b,2
+120,f67v2,astrology,4,9,b,3
+121,f67v1,astrology,4,9,b,3
+122,f68r1,astrology,4,9,b,3
+123,f68r2,astrology,4,9,b,3
+124,f68r3,astrology,4,9,b,3
+125,f68v3,astrology,4,9,b,3
+126,f68v2,astrology,4,9,b,3
+127,f68v1,astrology,4,9,b,3
+128,f69r,astrology,4,10,b,2
+129,f69v,astrology,4,10,b,2
+130,f70r1,astrology,4,10,b,2
+131,f70r2,astrology,4,10,b,2
+132,f70v2,astrology,4,10,b,2
+133,f70v1,astrology,4,10,b,2
+134,f71r,astrology,4,11,b,2
+135,f71v,astrology,4,11,b,2
+136,f72r1,astrology,4,11,b,2
+137,f72r2,astrology,4,11,b,2
+138,f72r3,astrology,4,11,b,2
+139,f72v3,astrology,4,11,b,3
+140,f72v2,astrology,4,11,b,2
+141,f72v1,astrology,4,11,b,2
+142,f73r,astrology,4,12,b,2
+143,f73v,astrology,4,12,b,4
+144,f75r,balneological,2,13,b,0
+145,f75v,balneological,2,13,b,0
+146,f76r,balneological,2,13,b,0
+147,f76v,balneological,2,13,b,4
+148,f77r,balneological,2,13,b,0
+149,f77v,balneological,2,13,b,4
+150,f78r,balneological,2,13,b,4
+151,f78v,balneological,2,13,b,4
+152,f79r,balneological,2,13,b,0
+153,f79v,balneological,2,13,b,0
+154,f80r,balneological,2,13,b,0
+155,f80v,balneological,2,13,b,0
+156,f81r,balneological,2,13,b,4
+157,f81v,balneological,2,13,b,4
+158,f82r,balneological,2,13,b,0
+159,f82v,balneological,2,13,b,0
+160,f83r,balneological,2,13,b,4
+161,f83v,balneological,2,13,b,0
+162,f84r,balneological,2,13,b,4
+163,f84v,balneological,2,13,b,4
+164,f85r1,rose,2,14,b,2
+165,f85r2,rose,4,14,b,2
+166,f86v4,rose,2,14,b,4
+167,f86v6,rose,2,14,b,2
+168,f86v5,rose,2,14,b,2
+169,f86v3,rose,2,14,b,2
+170,f87r,botanical,1,15,a,3
+171,f87v,botanical,1,15,a,3
+172,f88r,recipes,1,15,a,3
+173,f88v,recipes,1,15,a,3
+174,f89r1,recipes,1,15,a,3
+175,f89r2,recipes,1,15,a,3
+176,f89v2,recipes,1,15,a,3
+177,f89v1,recipes,1,15,a,3
+178,f90r1,botanical,1,15,a,3
+179,f90r2,botanical,1,15,a,3
+180,f90v2,botanical,1,15,a,3
+181,f90v1,botanical,1,15,a,3
+182,f93r,botanical,1,16,a,1
+183,f93v,botanical,1,16,a,1
+184,f94r,botanical,3,16,b,2
+185,f94v,botanical,3,16,b,2
+186,f95r1,botanical,3,16,b,2
+187,f95r2,botanical,3,16,b,2
+188,f95v2,botanical,3,16,b,2
+189,f95v1,botanical,3,16,b,2
+190,f96r,botanical,1,16,a,3
+191,f96v,botanical,1,16,a,3
+192,f99r,recipes,1,17,a,3
+193,f99v,recipes,1,17,a,3
+194,f100r,recipes,1,17,a,3
+195,f100v,recipes,1,17,a,3
+196,f101r1,recipes,1,17,a,3
+197,f101v2,recipes,1,17,a,3
+198,f102r1,recipes,1,17,a,3
+199,f102r2,recipes,1,17,a,3
+200,f102v2,recipes,1,17,a,3
+201,f102v1,recipes,1,17,a,3
+202,f103r,starred paragraphs,3,18,b,0
+203,f103v,starred paragraphs,3,18,b,0
+204,f104r,starred paragraphs,3,18,b,2
+205,f104v,starred paragraphs,3,18,b,2
+206,f105r,starred paragraphs,3,18,b,2
+207,f105v,starred paragraphs,3,18,b,2
+208,f106r,starred paragraphs,3,18,b,2
+209,f106v,starred paragraphs,3,18,b,2
+210,f107r,starred paragraphs,3,18,b,2
+211,f107v,starred paragraphs,3,18,b,2
+212,f108r,starred paragraphs,3,18,b,4
+213,f108v,starred paragraphs,3,18,b,0
+214,f111r,starred paragraphs,3,18,b,0
+215,f111v,starred paragraphs,3,18,b,0
+216,f112r,starred paragraphs,3,18,b,2
+217,f112v,starred paragraphs,3,18,b,2
+218,f113r,starred paragraphs,3,18,b,2
+219,f113v,starred paragraphs,3,18,b,2
+220,f114r,starred paragraphs,3,18,b,2
+221,f114v,starred paragraphs,3,18,b,2
+222,f115r,starred paragraphs,2,18,b,2
+223,f115v,starred paragraphs,3,18,b,0
+224,f116r,starred paragraphs,3,18,b,0

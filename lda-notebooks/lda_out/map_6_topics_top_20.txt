@@ -1,0 +1,132 @@
+
+Topic 0:
+(0) f25r: hand 1, language a, botanical
+(0) f53r: hand 1, language a, botanical
+(0) f3v: hand 1, language a, botanical
+(0) f37v: hand 1, language a, botanical
+(0) f21v: hand 1, language a, botanical
+(0) f67r2: hand 4, language b, astrology
+(0) f18v: hand 1, language a, botanical
+(0) f30v: hand 1, language a, botanical
+(0) f7r: hand 1, language a, botanical
+(0) f65r: hand 3, language b, botanical
+(0) f67v2: hand 4, language b, astrology
+(0) f67v1: hand 4, language b, astrology
+(0) f68r1: hand 4, language b, astrology
+(0) f57v: hand 1, language unknown, unknown
+(0) f65v: hand 3, language b, botanical
+(0) f38r: hand 1, language a, botanical
+(0) f96v: hand 1, language a, botanical
+(0) f11v: hand 1, language a, botanical
+(0) f5v: hand 1, language a, botanical
+(0) f27v: hand 1, language a, botanical
+
+Topic 1:
+(0) f65r: hand 3, language b, botanical
+(0) f67v2: hand 4, language b, astrology
+(0) f67v1: hand 4, language b, astrology
+(0) f68r1: hand 4, language b, astrology
+(0) f57v: hand 1, language unknown, unknown
+(0) f65v: hand 3, language b, botanical
+(0) f38r: hand 1, language a, botanical
+(0) f96v: hand 1, language a, botanical
+(0) f11v: hand 1, language a, botanical
+(0) f25r: hand 1, language a, botanical
+(0) f5v: hand 1, language a, botanical
+(0) f27v: hand 1, language a, botanical
+(0) f68r2: hand 4, language b, astrology
+(0) f53r: hand 1, language a, botanical
+(0) f36r: hand 1, language a, botanical
+(0) f25v: hand 1, language a, botanical
+(0) f90r2: hand 1, language a, botanical
+(0) f21v: hand 1, language a, botanical
+(0) f32r: hand 1, language a, botanical
+(0) f5r: hand 1, language a, botanical
+
+Topic 2:
+(0) f111r: hand 3, language b, starred paragraphs
+(0) f76r: hand 2, language b, balneological
+(0) f108v: hand 3, language b, starred paragraphs
+(0) f111v: hand 3, language b, starred paragraphs
+(0) f116r: hand 3, language b, starred paragraphs
+(0) f103r: hand 3, language b, starred paragraphs
+(0) f108r: hand 3, language b, starred paragraphs
+(0) f113r: hand 3, language b, starred paragraphs
+(0) f113v: hand 3, language b, starred paragraphs
+(0) f86v6: hand 2, language b, rose
+(0) f103v: hand 3, language b, starred paragraphs
+(0) f107r: hand 3, language b, starred paragraphs
+(0) f107v: hand 3, language b, starred paragraphs
+(0) f106v: hand 3, language b, starred paragraphs
+(0) f80r: hand 2, language b, balneological
+(0) f104v: hand 3, language b, starred paragraphs
+(0) f115r: hand 2, language b, starred paragraphs
+(0) f75r: hand 2, language b, balneological
+(0) f104r: hand 3, language b, starred paragraphs
+(0) f112v: hand 3, language b, starred paragraphs
+
+Topic 3:
+(0) f14r: hand 1, language a, botanical
+(0) f65r: hand 3, language b, botanical
+(0) f67v2: hand 4, language b, astrology
+(0) f67v1: hand 4, language b, astrology
+(0) f68r1: hand 4, language b, astrology
+(0) f57v: hand 1, language unknown, unknown
+(0) f65v: hand 3, language b, botanical
+(0) f38r: hand 1, language a, botanical
+(0) f96v: hand 1, language a, botanical
+(0) f11v: hand 1, language a, botanical
+(0) f25r: hand 1, language a, botanical
+(0) f5v: hand 1, language a, botanical
+(0) f27v: hand 1, language a, botanical
+(0) f68r2: hand 4, language b, astrology
+(0) f53r: hand 1, language a, botanical
+(0) f36r: hand 1, language a, botanical
+(0) f25v: hand 1, language a, botanical
+(0) f90r2: hand 1, language a, botanical
+(0) f21v: hand 1, language a, botanical
+(0) f32r: hand 1, language a, botanical
+
+Topic 4:
+(0) f65r: hand 3, language b, botanical
+(0) f67v2: hand 4, language b, astrology
+(0) f67v1: hand 4, language b, astrology
+(0) f68r1: hand 4, language b, astrology
+(0) f57v: hand 1, language unknown, unknown
+(0) f65v: hand 3, language b, botanical
+(0) f38r: hand 1, language a, botanical
+(0) f96v: hand 1, language a, botanical
+(0) f11v: hand 1, language a, botanical
+(0) f25r: hand 1, language a, botanical
+(0) f5v: hand 1, language a, botanical
+(0) f27v: hand 1, language a, botanical
+(0) f68r2: hand 4, language b, astrology
+(0) f53r: hand 1, language a, botanical
+(0) f36r: hand 1, language a, botanical
+(0) f25v: hand 1, language a, botanical
+(0) f90r2: hand 1, language a, botanical
+(0) f21v: hand 1, language a, botanical
+(0) f32r: hand 1, language a, botanical
+(0) f5r: hand 1, language a, botanical
+
+Topic 5:
+(0) f68r1: hand 4, language b, astrology
+(0) f27v: hand 1, language a, botanical
+(0) f29v: hand 1, language a, botanical
+(0) f6r: hand 1, language a, botanical
+(0) f65r: hand 3, language b, botanical
+(0) f67v2: hand 4, language b, astrology
+(0) f67v1: hand 4, language b, astrology
+(0) f57v: hand 1, language unknown, unknown
+(0) f65v: hand 3, language b, botanical
+(0) f38r: hand 1, language a, botanical
+(0) f96v: hand 1, language a, botanical
+(0) f11v: hand 1, language a, botanical
+(0) f25r: hand 1, language a, botanical
+(0) f5v: hand 1, language a, botanical
+(0) f68r2: hand 4, language b, astrology
+(0) f53r: hand 1, language a, botanical
+(0) f36r: hand 1, language a, botanical
+(0) f25v: hand 1, language a, botanical
+(0) f90r2: hand 1, language a, botanical
+(0) f21v: hand 1, language a, botanical

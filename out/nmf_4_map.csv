@@ -48,7 +48,7 @@
 46,f25r,botanical,1,a,4,1
 47,f25v,botanical,1,a,4,1
 48,f26r,botanical,2,b,4,0
-49,f26v,botanical,2,b,4,0
+49,f26v,botanical,2,b,4,2
 50,f27r,botanical,1,a,4,1
 51,f27v,botanical,1,a,4,1
 52,f28r,botanical,1,a,4,1
@@ -64,7 +64,7 @@
 62,f33r,botanical,2,b,5,2
 63,f33v,botanical,2,b,5,2
 64,f34r,botanical,2,b,5,2
-65,f34v,botanical,2,b,5,2
+65,f34v,botanical,2,b,5,0
 66,f35r,botanical,1,a,5,1
 67,f35v,botanical,1,a,5,1
 68,f36r,botanical,1,a,5,1
@@ -73,15 +73,15 @@
 71,f37v,botanical,1,a,5,1
 72,f38r,botanical,1,a,5,1
 73,f38v,botanical,1,a,5,1
-74,f39r,botanical,2,b,5,2
+74,f39r,botanical,2,b,5,0
 75,f39v,botanical,2,b,5,2
 76,f40r,botanical,2,b,5,2
 77,f40v,botanical,2,b,5,2
-78,f41r,botanical,2,b,6,0
+78,f41r,botanical,2,b,6,3
 79,f41v,botanical,2,b,6,3
 80,f42r,botanical,1,a,6,1
 81,f42v,botanical,1,a,6,1
-82,f43r,botanical,2,b,6,2
+82,f43r,botanical,2,b,6,0
 83,f43v,botanical,2,b,6,2
 84,f44r,botanical,1,a,6,1
 85,f44v,botanical,1,a,6,1
@@ -104,28 +104,29 @@
 102,f53r,botanical,1,a,7,1
 103,f53v,botanical,1,a,7,1
 104,f54r,botanical,1,a,7,3
-105,f54v,botanical,1,a,7,3
+105,f54v,botanical,1,a,7,2
 106,f55r,botanical,2,b,7,2
 107,f55v,botanical,2,b,7,2
 108,f56r,botanical,1,a,7,1
 109,f56v,botanical,1,a,7,1
 110,f57r,botanical,3,b,8,3
+111,f57v,unknown,0,unknown,8,2
 112,f58r,unknown,3,b,8,2
 113,f58v,unknown,3,b,8,2
-114,f65r,botanical,3,b,8,3
-115,f65v,botanical,3,b,8,0
+114,f65r,botanical,3,b,8,2
+115,f65v,botanical,3,b,8,2
 116,f66r,unknown,3,b,8,0
 117,f66v,botanical,3,b,8,2
 118,f67r1,astrology,4,b,9,2
 119,f67r2,astrology,4,b,9,2
-120,f67v2,astrology,4,b,9,3
+120,f67v2,astrology,4,b,9,2
 121,f67v1,astrology,4,b,9,3
 122,f68r1,astrology,4,b,9,3
 123,f68r2,astrology,4,b,9,3
 124,f68r3,astrology,4,b,9,3
 125,f68v3,astrology,4,b,9,3
 126,f68v2,astrology,4,b,9,3
-127,f68v1,astrology,4,b,9,3
+127,f68v1,astrology,4,b,9,2
 128,f69r,astrology,4,b,10,2
 129,f69v,astrology,4,b,10,2
 130,f70r1,astrology,4,b,10,2
@@ -137,11 +138,11 @@
 136,f72r1,astrology,4,b,11,2
 137,f72r2,astrology,4,b,11,2
 138,f72r3,astrology,4,b,11,2
-139,f72v3,astrology,4,b,11,3
+139,f72v3,astrology,4,b,11,2
 140,f72v2,astrology,4,b,11,2
 141,f72v1,astrology,4,b,11,2
 142,f73r,astrology,3,b,12,2
-143,f73v,astrology,3,b,12,0
+143,f73v,astrology,3,b,12,2
 144,f75r,balneological,2,b,13,0
 145,f75v,balneological,2,b,13,0
 146,f76r,balneological,2,b,13,0
@@ -162,10 +163,10 @@
 161,f83v,balneological,2,b,13,0
 162,f84r,balneological,2,b,13,0
 163,f84v,balneological,2,b,13,0
-164,f85r1,rose,2,b,14,2
+164,f85r1,rose,2,b,14,0
 165,f85r2,rose,2,b,14,2
 166,f86v4,rose,2,b,14,2
-167,f86v6,rose,2,b,14,2
+167,f86v6,rose,2,b,14,0
 168,f86v5,rose,2,b,14,2
 169,f86v3,rose,2,b,14,2
 170,f87r,botanical,1,a,15,3
@@ -174,7 +175,7 @@
 173,f88v,recipies,1,a,15,3
 174,f89r1,recipies,1,a,15,3
 175,f89r2,recipies,1,a,15,3
-176,f89v2,recipies,1,a,15,3
+176,f89v2,recipies,1,a,15,1
 177,f89v1,recipies,1,a,15,3
 178,f90r1,botanical,1,a,15,3
 179,f90r2,botanical,1,a,15,3
@@ -184,7 +185,7 @@
 183,f93v,botanical,1,a,16,1
 184,f94r,botanical,3,b,16,2
 185,f94v,botanical,3,b,16,2
-186,f95r1,botanical,3,b,16,2
+186,f95r1,botanical,3,b,16,0
 187,f95r2,botanical,3,b,16,2
 188,f95v2,botanical,3,b,16,2
 189,f95v1,botanical,3,b,16,0
@@ -203,23 +204,23 @@
 202,f103r,starred paragraphs,3,b,18,0
 203,f103v,starred paragraphs,3,b,18,0
 204,f104r,starred paragraphs,3,b,18,2
-205,f104v,starred paragraphs,3,b,18,2
+205,f104v,starred paragraphs,3,b,18,0
 206,f105r,starred paragraphs,3,b,18,2
 207,f105v,starred paragraphs,3,b,18,2
-208,f106r,starred paragraphs,3,b,18,2
-209,f106v,starred paragraphs,3,b,18,2
-210,f107r,starred paragraphs,3,b,18,2
-211,f107v,starred paragraphs,3,b,18,2
+208,f106r,starred paragraphs,3,b,18,0
+209,f106v,starred paragraphs,3,b,18,0
+210,f107r,starred paragraphs,3,b,18,0
+211,f107v,starred paragraphs,3,b,18,0
 212,f108r,starred paragraphs,3,b,18,0
-213,f108v,starred paragraphs,3,b,18,0
+213,f108v,starred paragraphs,3,b,18,3
 214,f111r,starred paragraphs,3,b,18,0
 215,f111v,starred paragraphs,3,b,18,0
-216,f112r,starred paragraphs,3,b,18,2
-217,f112v,starred paragraphs,3,b,18,2
+216,f112r,starred paragraphs,3,b,18,0
+217,f112v,starred paragraphs,3,b,18,0
 218,f113r,starred paragraphs,3,b,18,2
 219,f113v,starred paragraphs,3,b,18,2
 220,f114r,starred paragraphs,3,b,18,2
 221,f114v,starred paragraphs,3,b,18,2
-222,f115r,starred paragraphs,3,b,18,2
+222,f115r,starred paragraphs,3,b,18,0
 223,f115v,starred paragraphs,3,b,18,0
 224,f116r,starred paragraphs,3,b,18,0
